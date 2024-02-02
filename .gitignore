@@ -1,0 +1,5 @@
+# coments
+
+*.bak
+~*
+bin/
